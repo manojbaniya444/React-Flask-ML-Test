@@ -15,7 +15,7 @@ or download as Zip file and open in vs code
 * pip install pandas
 
 or 
-run the command pip install -r requirements.txt\n
+run the command pip install -r requirements.txt
 
 --> Then run: python app.py
 This will start the backend server at http://localhost/5000
