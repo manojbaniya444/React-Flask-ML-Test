@@ -34,7 +34,7 @@ This will automatically install the required dependencies for you react front en
 
 --> Then run command: npm start
 
-This is open http://localhost/3000
+This will open http://localhost/3000
 
 Now you can run this app.
 
