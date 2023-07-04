@@ -1,7 +1,6 @@
 # React-Flask-ML-Test
 To connect React with flask and ML model to get predicted data in the response
-# React-Flask-ML-Test
-To connect React with flask and ML model to get predicted data in the response
+
 # Steps to follow to run this on your local machine:
 ->first clone this repository by git command 'git clone https://github.com/manojbaniya444/React-Flask-ML-Test.git'
 or download as Zip file and open in vs code 
