@@ -7,15 +7,15 @@ or download as Zip file and open in vs code
 ## For the backend
 -> open vs code terminal and change the directory to Backend by cd Backend
 -> install required libraries 
-pip install flask
-pip install numpy
-pip install pickle
-pip install flask-cors
-pip install sklearn
-pip install pandas
+* pip install flask
+* pip install numpy
+* pip install pickle
+* pip install flask-cors
+* pip install sklearn
+* pip install pandas
 
 or 
-run the command pip install -r requirements.txt
+run the command pip install -r requirements.txt\n
 
 --> Then run: python app.py
 This will start the backend server at http://localhost/5000
